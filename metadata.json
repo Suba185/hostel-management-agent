@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Hostel Management Agent",
+  "description": "An AI-powered Hostel Management Agent featuring student registration, complaint tracking, and a smart chatbot helper powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
